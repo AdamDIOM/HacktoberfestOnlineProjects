@@ -1,0 +1,106 @@
+year,name,city,university,organiser,organiser_type,student_led,attendees,projects,sources,source_url,evidence
+2021,AstonHack 6,,,Aston Computer Science Society (ACSS),student_society,True,,,event_site;hackathons.org.uk,https://astonhack.co.uk/,"We are the Aston Computer Science Society (ACSS). Coordinated by students powered with their excitement in tech, we welcome all to learn, share and have fun with computer science."
+2021,Hack the Burgh VII,,,University of Edinburgh,university,,,,hackathons.org.uk,https://hackathons.org.uk/events/2021/,University of Edinburgh
+2021,HackDartmouth,,,,,,,,mlh,https://www.mlh.com/seasons/2021/events,null
+2021,HackLBS 2021,,,University of Bath Computing Society,student_society,True,,,event_site;hackathons.org.uk,http://hacklbs.org/,"Yes, you need to be a current student at any educational institution to join this Hackathon."
+2021,HackLboro,,,Loughborough University,university,,,,hackathons.org.uk,https://hackathons.org.uk/events/2021/,Loughborough University
+2021,HackMed 2021,,,University of Sheffield,other,,,,event_site;hackathons.org.uk,http://hackmed.uk/,null
+2021,HackNotts 2020,,,HackSoc,student_society,True,,,event_site;hackathons.org.uk,https://hacknotts.com,HackNotts is an annual hackathon held by HackSoc at the University of Nottingham.
+2021,Hex Cambridge,,,University of Cambridge,other,,,,event_site;hackathons.org.uk,https://hackcambridge.com,It was the official hackathon of the University of Cambridge
+2021,Highfield Hack UK,,,HackaSoton,student_society,True,,,event_site;hackathons.org.uk,https://highfieldhack.co.uk/,"HackaSoton
+University of Southampton's society focused on running and attending hackathons, since 2014."
+2021,Leicester Hack,,,,,,,,mlh,https://www.mlh.com/seasons/2021/events,null
+2021,R. U. Hacking,,,R. U. Hacking?,other,,,,event_site;hackathons.org.uk,https://ruhacking.uk/,null
+2021,Royal Hackaway v4,,,"Royal Holloway, University of London Computing Society",student_society,True,,,event_site;hackathons.org.uk,https://royalhackaway.com/,"Royal Hackaway is Royal Holloway's annual Hackathon, open to university students from the UK and around the world!"
+2021,SigmaHacks 3,,,,,,,,mlh,https://www.mlh.com/seasons/2021/events,null
+2021,StacsHack 2021,,,University of St Andrews Computing Society,student_society,True,,,event_site;hackathons.org.uk,https://st-andrews-computing-society.github.io/stacshack/,StacsHack is the annual student hackathon hosted by the St Andrews Unversity Computing Society
+2021,WarwickHACK 2021,,,WarwickTECH,student_society,True,,,event_site;hackathons.org.uk,https://hack.warwick.tech/,"WarwickHACK is WarwickTECH's official hackathon run in partnership with Hackathons UK! Since 2014, WarwickTECH has been organising the University’s flagship hackathon and WarwickHACK is back for 2021! We're a team of tech-loving students from WarwickTECH, a student-led angel fund backing founders from Warwick University."
+2021,hackSheffield 6,,,,university,,,,event_site,http://hacksheffield.com/,University of Sheffield
+2021,under 18s welcome hackSheffield 6,,,University of Sheffield,student_society,,,,hackathons.org.uk,https://hackathons.org.uk/events/2021/,University of Sheffield
+2022,AstonHack7,,,Aston Computer Science Society,student_society,True,,,event_site;hackathons.org.uk,https://astonhack.co.uk/,"We are the Aston Computer Science Society (ACSS). Coordinated by students powered with their excitement in tech, we welcome all to learn, share and have fun with computer science."
+2022,Bhopal,,,,,,,,mlh,https://www.mlh.com/seasons/2022/events,Bhopal
+2022,Coastal Hacks,,,,student_society,,,,mlh,https://www.mlh.com/seasons/2022/events,HIGH SCHOOL
+2022,DurHack 2022,,,Durham University Computing Society,student_society,True,,,event_site;hackathons.org.uk,https://durhack.com/,"Durham Students’ Union is registered in England as a company limited by guarantee (07689815) and a charity (1145400), with VAT number 119733690 and registered office Dunelm House, New Elvet, Durham DH1 3AN."
+2022,GitHub Field Day: UK 2022,,,Hackathons UK,other,,,,event_site;hackathons.org.uk,https://githubfieldday.com/uk2022/,"Field Day is organized by Hackathons UK, GitHub Field Experts, GitHub Campus Experts, and technical student leaders."
+2022,Hack Cambridge Atlas,,,The Hack Cambridge Foundation,student_society,True,,,event_site;hackathons.org.uk,https://hackcambridge.com,It was the official hackathon of the University of Cambridge and hosted hundreds of students from all over the world each and every year.
+2022,Hack the Burgh VIII,,,CompSoc Edinburgh,student_society,True,,,event_site;hackathons.org.uk,https://2022.hacktheburgh.com/,"It's open to all students, and is a great place to learn or practice programming, with a variety of challenges and talks from our sponsors."
+2022,Hack3,,,,,,,,mlh,https://www.mlh.com/seasons/2022/events,"Acton, MA"
+2022,HackNotts 2021,,,HackSoc,student_society,True,,,event_site;hackathons.org.uk,https://www.hacknotts.com/,HackNotts is an annual hackathon held by HackSoc at the University of Nottingham.
+2022,MasseyHacks VIII,,,,student_society,,,,mlh,https://www.mlh.com/seasons/2022/events,MasseyHacks VIII
+2022,Oxford Hack 2022,,,Oxford University,university,,,,event_site;hackathons.org.uk,https://oxfordhack22.co.uk/,null
+2022,PrideHacks II,,,,,,,,mlh,https://www.mlh.com/seasons/2022/events,PrideHacks II
+2022,Quackathon 2022,,,Dundee University,other,,,,hackathons.org.uk,https://hackathons.org.uk/events/2022/,null
+2022,R. U. Hacking,,,,student_society,,,,mlh,https://www.mlh.com/seasons/2022/events,Reading
+2022,R.U.Hacking? 2022,,,University of Reading,university,,,,event_site;hackathons.org.uk,https://ruhacking.uk/,University of Reading
+2022,Royal Hackaway v5,,,Royal Holloway University of London (RHUL Computing Society),student_society,True,,,event_site;hackathons.org.uk,https://royalhackaway.com,"Royal Hackaway is Royal Holloway's annual Hackathon, open to university students from the UK and around the world!"
+2022,SimpliHacks 2.0,,,,,,,,mlh,https://www.mlh.com/seasons/2022/events,SimpliHacks 2.0
+2022,Stacshack 2022,,,University of St. Andrews,other,,,,hackathons.org.uk,https://hackathons.org.uk/events/2022/,null
+2022,WarwickHACK 2022,,,WarwickTECH,student_society,True,,,event_site;hackathons.org.uk,https://hack.warwick.tech/,WarwickTECH is a student-led angel fund with a portfolio of start-ups founded by Warwick students.
+2022,hths.hacks() 2022,,,,student_society,,,,mlh,https://www.mlh.com/seasons/2022/events,hths.hacks() 2022
+2023,AstonHack 8,,,Aston Computer Science Society (ACSS),student_society,True,,,event_site;hackathons.org.uk,https://astonhack.co.uk/,"We are the Aston Computer Science Society (ACSS). Coordinated by students powered with their excitement in tech, we welcome all to learn, share and have fun with computer science."
+2023,DurHack 2022 v2,,,Durham University Computing Society,student_society,True,,,event_site;hackathons.org.uk,https://durhack.com/,"Durham Students’ Union is registered in England as a company limited by guarantee (07689815) and a charity (1145400), with VAT number 119733690 and registered office Dunelm House, New Elvet, Durham DH1 3AN."
+2023,Global Hack Week: Diversity,,,,mlh,,,,mlh,https://www.mlh.com/seasons/2023/events,"We help run the global hacker community. It's our mission to empower hackers, just like you."
+2023,Global Hack Week: Game Week,,,,mlh,,,,mlh,https://www.mlh.com/seasons/2023/events,"We help run the global hacker community. It's our mission to empower hackers, just like you."
+2023,Global Hack Week: Security Week,,,,mlh,,,,mlh,https://www.mlh.com/seasons/2023/events,"We help run the global hacker community. It's our mission to empower hackers, just like you."
+2023,Global Hack Week: UK,,,,mlh,,,,mlh,https://www.mlh.com/seasons/2023/events,"We help run the global hacker community. It's our mission to empower hackers, just like you."
+2023,GreatUniHack 2022,,,UniCS,student_society,True,,,event_site;hackathons.org.uk,https://greatunihack.com,"GreatUniHack is the University of Manchester's student hackathon, run by UniCS."
+2023,Hack Brunel,,,Brunel University of London,university,,,,event_site;hackathons.org.uk,https://hackbrunel.com/,HackBrunel was a hackathon at Brunel University of London
+2023,Hack The Burgh IX,,,CompSoc Edinburgh,student_society,True,,,event_site;hackathons.org.uk,https://2023.hacktheburgh.com,Hack the Burgh is a yearly hackathon hosted by University of Edinburgh students.
+2023,HackNotts 23,,,HackSoc,student_society,True,,,event_site;hackathons.org.uk,https://hacknotts.com,HackNotts is an annual hackathon held by HackSoc at the University of Nottingham.
+2023,HackSussex2023,,,,university,,,,event_site;hackathons.org.uk,https://www.hacksussex.com/,University of Sussex
+2023,Quackathon 2023,,,DUCS Dundee,student_society,True,,,event_site;hackathons.org.uk,https://ducs-dundee.co.uk,"DUCS is Dundee University's society for computing students and anyone who shares an interest in tech. We organise regular socials, help our members build a great career, and partner with a number of companies."
+2023,Royal Hackaway v6,,,Royal Holloway Computing Society,student_society,True,,,event_site;hackathons.org.uk,https://royalhackaway.com/,"Royal Hackaway is Royal Holloway's annual Hackathon, open to university students from the UK and around the world!"
+2023,STACSHACK X,,,,other,,,,event_site;hackathons.org.uk,https://standrewscs.org/,Hackathons UK - Official Partner Physical STACSHACK X 4 Mar 2023 - 5 Mar 2023 St Andrews
+2024,Ada Hack,,,University of Edinburgh,other,,,,event_site;hackathons.org.uk,https://edinburghhoppers.com/events,"Our 12-hour Innovation Hackathon brought together creative minds for a fast-paced day of problem-solving, collaboration, and fun."
+2024,AstonHack9,,,Aston Computer Science Society (ACSS),student_society,True,,,event_site;hackathons.org.uk,https://astonhack.co.uk/,"Event 9 - WIT Panel run by the ACSS, Open to all Students!"
+2024,Bitcamp 2024,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,DurHack 2023,,,Durham University Computing Society,student_society,True,,,event_site;hackathons.org.uk,https://durhack.com,"Durham Students’ Union is registered in England as a company limited by guarantee (07689815) and a charity (1145400), with VAT number 119733690 and registered office Dunelm House, New Elvet, Durham DH1 3AN."
+2024,GDSCHACKS Guelph,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,Global Hack Week: Web3,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,GreatUniHack 2023,,,UniCS,student_society,True,,,event_site;hackathons.org.uk,https://greatunihack.com/,"GreatUniHack is the University of Manchester's student hackathon, run by UniCS."
+2024,HackDartmouth IX,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,HackNotts 1984,,,HackSoc,student_society,True,,,event_site;hackathons.org.uk,https://hacknotts.com,HackNotts is an annual hackathon held by HackSoc at the University of Nottingham.
+2024,HackSheffield 8,,,Sheffield CompSoc,student_society,True,,,event_site;hackathons.org.uk,https://shefcompsoc.uk/hacksheffield-8/,"We're the student-run Computer Science Society at the University of Sheffield. We organise workshops, hackathons, sports and socials."
+2024,HackSussex GameJam2023,,,,,,,,hackathons.org.uk,https://hackathons.org.uk/events/2024/,University of Sussex
+2024,HackSussex Hackathon 2024,,,,university,,,,event_site;hackathons.org.uk,https://hacksussex.com,University of Sussex
+2024,HackTheBurgh X,,,CompSoc,student_society,True,,,event_site;hackathons.org.uk,https://hacktheburgh.com,"HackTheBurgh is an annual student-led hackathon run by CompSoc, the University of Edinburgh’s technology society."
+2024,HackUPC,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,JAMHacks 8,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,KleinHacks,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,LA Hacks,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,LanHack23,,,LU CompSoc,student_society,True,,,event_site;hackathons.org.uk,https://gdsc.community.dev/events/details/developer-student-clubs-lancaster-university-lancaster-presents-lanhack-devfest-2023/,GDSC Co-Lead Aaron Kelly LU CompSoc
+2024,Lince Hacks,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,Quackathon 2024,,,,,,,,hackathons.org.uk,https://hackathons.org.uk/events/2024/,University of Dundee
+2024,RiverHacks 2024,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2024,Royal Hackaway v7,,,"Royal Holloway, University of London Computing Society",student_society,True,,,event_site;hackathons.org.uk,https://royalhackaway.com/,"Royal Hackaway is Royal Holloway's annual Hackathon, open to university students from the UK and around the world!"
+2024,StacsHack 2024,,,STACS (St Andrews Computing Society),student_society,True,,,event_site;hackathons.org.uk,https://fixr.co/event/stacshack-2024-10th-anniversary-tickets-628148152?ref=facebook,STACS (St Andrews Computing Society) is excited to present StacsHack 10
+2024,StudentHack 2024,,,University of Manchester,student_society,,,,hackathons.org.uk,https://hackathons.org.uk/events/2024/,University of Manchester
+2024,UTA Datathon,,,,other,,,,mlh,https://www.mlh.com/seasons/2024/events,null
+2025,AdaHack 24,,,Edinburgh Hoppers Team,student_society,True,,,event_site;hackathons.org.uk,https://adahack.edinburghhoppers.com/,"Its actually awesome you should go - Skye, Website is made with ♥ by Skye, and with support from the whole Hoppers team"
+2025,DurHack 2024,,,Durham University Computing Society,student_society,True,,,event_site;hackathons.org.uk,https://durhack.com,"Durham Students’ Union is registered in England as a company limited by guarantee (07689815) and a charity (1145400), with VAT number 119733690 and registered office Dunelm House, New Elvet, Durham DH1 3AN."
+2025,GreatUniHack 2024,,,UniCS,student_society,True,,,event_site;hackathons.org.uk,https://greatunihack.com,"GreatUniHack is the University of Manchester's student hackathon, run by UniCS."
+2025,Hack4Bengal 4.0,,,null,other,,,,mlh,https://www.mlh.com/seasons/2025/events,null
+2025,HackNotts 24,,,HackSoc,student_society,True,,,event_site;hackathons.org.uk,https://hacknotts.com,HackNotts is an annual hackathon held by HackSoc at the University of Nottingham.
+2025,HackSheffield 9,,,University of Sheffield,university,,,,event_site;hackathons.org.uk,https://hacksheffield.uk,Hosted By
+2025,MasseyHacks,,,null,other,,,,mlh,https://www.mlh.com/seasons/2025/events,null
+2025,NMIT HACKS 2025,,,null,other,,,,mlh,https://www.mlh.com/seasons/2025/events,null
+2025,Royal Hackaway v8,,,"Royal Holloway, University of London Computing Society",student_society,True,,,event_site;hackathons.org.uk,https://royalhackaway.co.uk/,"Royal Hackaway is Royal Holloway's annual Hackathon, open to university students from the UK and around the world!"
+2025,birmingHack 1.0,,,University of Birmingham,student_society,,,,hackathons.org.uk,https://hackathons.org.uk/events/2025/,University of Birmingham
+2026,AstonHack11,,,,university,,,,event_site;hackathons.org.uk,https://astonhack.co.uk/,"Aston University, Birmingham"
+2026,DUWiT Hacks 2026,,,Durham University Women in Tech,student_society,True,,,event_site;hackathons.org.uk,https://duwithacks.com/,DUWiT is Durham University Women in Tech — a student society for anyone who wants an inclusive tech community at Durham.
+2026,DurHack X,,,Durham University Computing Society,student_society,True,,,event_site;hackathons.org.uk,https://durhack.com,"Durham Students’ Union is registered in England as a company limited by guarantee (07689815) and a charity (1145400), with VAT number 119733690 and registered office Dunelm House, New Elvet, Durham DH1 3AN."
+2026,GreatUniHack,,,UniCS,student_society,True,,,event_site;hackathons.org.uk,https://greatunihack.com,"GreatUniHack is the University of Manchester's flagship student hackathon, run by UniCS."
+2026,Hack South West,,,,other,,,,hackathons.org.uk,https://hackathons.org.uk/events/2026/,University of Exeter
+2026,Hack With SWiCS,,,Sheffield Women in Computer Science Society,student_society,True,,,event_site;hackathons.org.uk,https://hackwithswics.com/,"The Sheffield Women in Computer Science Society (SWiCS) is excited to announce the launch of our very own single-day, inclusivity-focused hackathon!"
+2026,HackLondon 2026,,,,student_society,True,,,event_site;hackathons.org.uk,https://hl26.kcltech.co.uk/,London's Premier Student Hackathon
+2026,HackNotts '25,,,HackSoc,student_society,True,,,event_site;hackathons.org.uk,https://hacknotts.com/,HackNotts is an annual hackathon held by HackSoc at the University of Nottingham.
+2026,HackSheffield10,,,University of Sheffield,university,,,,event_site;hackathons.org.uk,https://hacksheffield.uk,"HackSheffield 10 will run for the final weekend of November (29th-30th). This year it will be hosted at The Diamond, 32 Leavygreave Road, Sheffield, S3 7RD."
+2026,HackSussex 2026,,,,university,,,,event_site;hackathons.org.uk,https://www.hacksussex.com/Events/hackathon,null
+2026,HackSussex Game Jam 2025,,,,university,,,,event_site;hackathons.org.uk,https://www.hacksussex.com/Events/gamejam,University of Sussex
+2026,HackUPC,,,Barcelona,,,,,mlh,https://www.mlh.com/seasons/2026/events,"Barcelona, Catalonia, ES"
+2026,Hackabury,,,Christ Church Students' Union,student_society,True,,,event_site;hackathons.org.uk,https://ccsu.co.uk/groups/YPGCV/hackabury,We are a student-led society focused on building things fast and learning by doing.
+2026,HudHack 2026,,,University of Huddersfield Cyber Security Society,student_society,,,,event_site;hackathons.org.uk,https://hudhack.com/,"This year, we challenged hackers to identify everyday frustrations—university-specific or general daily issues—and use technology to design practical solutions. You all delivered incredible results."
+2026,KentHackIt,,,Kent Computing Society,student_society,True,,,event_site;hackathons.org.uk;mlh,https://kenthackit.co.uk/,"KentHackIt is the University of Kent's annual hackathon, set up by the Kent Computing Society where students of all skill levels come together to learn, collaborate, and bring innovative ideas to life."
+2026,Royal Hackaway v9,,,"Royal Holloway, University of London",student_society,True,,,event_site;hackathons.org.uk,https://www.royalhackaway.com/,"Royal Hackaway is Royal Holloway's annual Hackathon, open to university students from the UK and around the world!"
+2026,SotonHack,,,Electronics and Computer Science Society,student_society,True,,,event_site;hackathons.org.uk,https://sotonhack.org/,Organised by the Electronics and Computer Science Society
+2026,birmingHack 2.0,,,University of Birmingham Computer Science Society,student_society,True,,,event_site;hackathons.org.uk,https://birminghack.com/,birmingHack is a 24-hour hackathon hosted by the Computer Science Society at the University of Birmingham.
