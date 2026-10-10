@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Boeing 737",
+    "category": "airliner",
+    "size": "medium narrow-body, single aisle",
+    "engines": "2 jet engines under the wings; engine intakes are flattened at the bottom (oval, not round)",
+    "features": "Pointed nose, winglets (upturned or split-scimitar tips on newer models), low wings, 2 engines. Very common short-haul jet. Engines sit close to the ground.",
+    "airlines": "Southwest, Ryanair, United, Alaska, Delta, American, Jet2, Qantas"
+  },
+  {
+    "name": "Airbus A320 family",
+    "category": "airliner",
+    "size": "medium narrow-body, single aisle",
+    "engines": "2 jet engines under the wings; round intakes",
+    "features": "Rounder, slightly blunter nose than a 737, sharklets (big upturned wingtip fences) on newer ones, 2 engines. Most common short-haul jet in Europe.",
+    "airlines": "easyJet, Lufthansa, JetBlue, Spirit, Frontier, Wizz Air, Air France, IndiGo"
+  },
+  {
+    "name": "Boeing 747",
+    "category": "airliner",
+    "size": "huge wide-body, four engines",
+    "engines": "4 jet engines, 2 under each wing",
+    "features": "Distinctive hump on the front of the fuselage (upper deck). Very large. Now mostly cargo, with a few passenger ones (Lufthansa 747-8).",
+    "airlines": "Lufthansa, UPS, FedEx, Atlas Air, Korean Air Cargo, Air Force One"
+  },
+  {
+    "name": "Airbus A380",
+    "category": "airliner",
+    "size": "the largest passenger plane, double-deck full length",
+    "engines": "4 jet engines, 2 under each wing",
+    "features": "Full-length double-decker fuselage with a bulbous, whale-like look from the front. Gigantic wings. Rare and unmistakable.",
+    "airlines": "Emirates, Singapore Airlines, Qantas, British Airways, Lufthansa, Qatar"
+  },
+  {
+    "name": "Boeing 777",
+    "category": "airliner",
+    "size": "large wide-body, twin engine",
+    "engines": "2 enormous jet engines, one under each wing; 6 wheels per main landing gear",
+    "features": "Giant engines for a twin, long body, 6-wheel main gear bogies, raked wingtips (no winglets) on most. Long-haul workhorse. Newer 777X has folding wingtips.",
+    "airlines": "Emirates, Qatar, United, Cathay Pacific, Air France, British Airways"
+  },
+  {
+    "name": "Boeing 787 Dreamliner",
+    "category": "airliner",
+    "size": "large wide-body, twin engine",
+    "engines": "2 jet engines with zigzag/sawtooth (chevron) edges on the back of the nacelles",
+    "features": "Very curved, flexing wings that bend upward in flight, raked wingtips, sawtooth engine nacelle edges, smooth nose with a swooping windshield. Long-haul.",
+    "airlines": "ANA, JAL, British Airways, United, American, Qatar, Norse"
+  },
+  {
+    "name": "Airbus A350",
+    "category": "airliner",
+    "size": "large wide-body, twin engine",
+    "engines": "2 jet engines",
+    "features": "Black 'mask' around the cockpit windows that joins into a swoosh, curved winglets blending into the wing, sleek fuselage. Long-haul twin.",
+    "airlines": "Singapore, Qatar, Cathay Pacific, Finnair, Delta, Lufthansa, Air France"
+  },
+  {
+    "name": "Airbus A330",
+    "category": "airliner",
+    "size": "large wide-body, twin engine",
+    "engines": "2 jet engines",
+    "features": "Wide-body twin, wingtips with winglets angled up and down (not raked). Looks like a bigger A320 with 2 aisles. Often seen on medium and long routes.",
+    "airlines": "Delta, TAP, Turkish, Air Canada, Qantas"
+  },
+  {
+    "name": "Boeing 767",
+    "category": "airliner",
+    "size": "medium-large wide-body, twin engine",
+    "engines": "2 jet engines",
+    "features": "Smaller wide-body twin with a narrower fuselage than a 777, often cargo. 'Cheek' bulge near cockpit. Common as FedEx/UPS/Amazon freighters.",
+    "airlines": "FedEx, UPS, Amazon Air, Delta, United, Air Canada"
+  },
+  {
+    "name": "Embraer E175 / E190 regional jet",
+    "category": "regional jet",
+    "size": "small jet, 70-110 seats",
+    "engines": "2 jet engines under the wings, close to the fuselage",
+    "features": "Short, stubby, small airliner with winglets, 2 engines under wings. Common US regional jet flown for the big airlines.",
+    "airlines": "SkyWest (for United/Delta/American), Republic, KLM Cityhopper, LOT"
+  },
+  {
+    "name": "Bombardier CRJ-200 / CRJ-700 regional jet",
+    "category": "regional jet",
+    "size": "small jet, 50-90 seats",
+    "engines": "2 jet engines mounted on the rear fuselage, with a T-tail (stabilizer on top of the fin)",
+    "features": "Rear-mounted engines, T-tail, long thin body, pointed nose. Like a small business jet but with airline colors. Wingtip winglets on some.",
+    "airlines": "SkyWest, Endeavor, Air Canada Jazz, Lufthansa CityLine"
+  },
+  {
+    "name": "Airbus A220",
+    "category": "airliner",
+    "size": "small-medium narrow-body, 110-150 seats",
+    "engines": "2 geared jet engines under the wings",
+    "features": "Modern sleek small jet with a large cockpit windows, curved nose, and swept wingtips. Formerly the Bombardier CSeries.",
+    "airlines": "Delta, Air Canada, Swiss, airBaltic, JetBlue"
+  },
+  {
+    "name": "ATR 72 turboprop",
+    "category": "regional turboprop",
+    "size": "small-medium, ~70 seats",
+    "engines": "2 propellers (4 blades each), engines mounted on high wings",
+    "features": "High wing, 2 propellers, T-tail, long thin fuselage. Very common regional airliner outside the US. The ATR 42 is shorter.",
+    "airlines": "Air Corsica, Air Tahiti, Flybe, Silver Airways, many regional airlines"
+  },
+  {
+    "name": "De Havilland Dash 8 / Q400",
+    "category": "regional turboprop",
+    "size": "small, 40-90 seats",
+    "engines": "2 propellers on a high wing; engine nacelles long with wheels retracting into them",
+    "features": "High wing, 2 props (6 blades on Q400), T-tail, long nose. Q400 is the largest. Looks like the ATR but with a pointier nose.",
+    "airlines": "Alaska/Horizon, Air Canada Express, Qantaslink, Flybe, Porter"
+  },
+  {
+    "name": "Cessna 172 Skyhawk",
+    "category": "general aviation",
+    "size": "small, 4-seat single-engine",
+    "engines": "1 propeller on the nose, 4 seats",
+    "features": "High wing with a diagonal strut from fuselage to each wing, fixed (non-retracting) tricycle landing gear, white with colored stripes. The most common small plane in the world; you'll see them at flight schools.",
+    "airlines": "private / flight schools"
+  },
+  {
+    "name": "Piper Cherokee / Warrior / Archer",
+    "category": "general aviation",
+    "size": "small, 2-4 seat single-engine",
+    "engines": "1 propeller on the nose",
+    "features": "LOW wing, fixed tricycle gear, square-ish tail (the Cherokee has a rectangular wing). Common training aircraft. Contrast with the high-wing Cessna.",
+    "airlines": "private / flight schools"
+  },
+  {
+    "name": "Cirrus SR22",
+    "category": "general aviation",
+    "size": "small, 4-5 seat single-engine",
+    "engines": "1 propeller on the nose",
+    "features": "Sleek modern low-wing composite plane with fixed landing gear with wheel fairings, side-stick cockpit, and a big parachute hatch on the top (the CAPS).",
+    "airlines": "private"
+  },
+  {
+    "name": "Beechcraft King Air",
+    "category": "turboprop business",
+    "size": "small-medium, 6-11 seats",
+    "engines": "2 propellers (3-4 blades) on low wings",
+    "features": "Twin turboprop, T-tail, low wing, retractable gear. Common as private, air ambulance, and charter transport.",
+    "airlines": "charter / private / government"
+  },
+  {
+    "name": "Gulfstream G650 / business jet",
+    "category": "business jet",
+    "size": "medium-large business jet",
+    "engines": "2 jet engines mounted on the rear fuselage, T-tail",
+    "features": "Rear-mounted engines, T-tail, oval windows (the G650 has big ones), long wing with winglets. Typical long-range private jet.",
+    "airlines": "private"
+  },
+  {
+    "name": "Cessna Citation business jet",
+    "category": "business jet",
+    "size": "small-medium business jet",
+    "engines": "2 jet engines on the rear fuselage, T-tail",
+    "features": "Small private jet, rear engines, straight or swept wing, pointed nose. Very common at small airports.",
+    "airlines": "private / charter"
+  },
+  {
+    "name": "Lockheed C-130 Hercules",
+    "category": "military transport",
+    "size": "large military transport",
+    "engines": "4 propellers on a high wing",
+    "features": "High wing, 4 turboprops, rear loading ramp, bulging cargo hold, usually grey or camouflage. Looks like a flying cargo container.",
+    "airlines": "military (many air forces)"
+  },
+  {
+    "name": "Airbus A400M Atlas",
+    "category": "military transport",
+    "size": "large military transport",
+    "engines": "4 propellers with scimitar-shaped blades on a high wing",
+    "features": "High wing, 4 big props with curved blades, T-tail, rear ramp. Larger than a C-130.",
+    "airlines": "European air forces, RAF"
+  },
+  {
+    "name": "Boeing C-17 Globemaster III",
+    "category": "military transport",
+    "size": "very large military transport",
+    "engines": "4 jet engines on a high wing",
+    "features": "High-mounted wings with winglets, T-tail, 4 jets, a huge wide body, large rear cargo ramp, many main wheels. US Air Force heavy lifter.",
+    "airlines": "USAF, RAF, other air forces"
+  },
+  {
+    "name": "Lockheed F-16 Fighting Falcon",
+    "category": "military fighter",
+    "size": "small single-engine fighter",
+    "engines": "1 jet engine, single fin, intake under the belly",
+    "features": "Bubble canopy, intake under the fuselage, single vertical tail, small body. Often in airshow demos.",
+    "airlines": "USAF, many air forces"
+  },
+  {
+    "name": "Boeing F/A-18 Super Hornet",
+    "category": "military fighter",
+    "size": "medium twin-engine fighter",
+    "engines": "2 jet engines, twin vertical tails angled outward",
+    "features": "Two tails canted outward, square-ish intakes on either side of cockpit, carrier-capable. US Navy.",
+    "airlines": "US Navy, Australia, Kuwait"
+  },
+  {
+    "name": "Eurofighter Typhoon",
+    "category": "military fighter",
+    "size": "medium twin-engine fighter",
+    "engines": "2 jet engines, single tail",
+    "features": "Delta wing with small canard foreplanes near the cockpit, single fin, chin intake. Common in European skies.",
+    "airlines": "RAF, German, Italian, Spanish air forces"
+  },
+  {
+    "name": "Robinson R44 helicopter",
+    "category": "helicopter",
+    "size": "small 4-seat helicopter",
+    "engines": "1 piston engine, 2 main rotor blades, tail rotor",
+    "features": "Small, bubble cockpit, two-blade main rotor, skid landing gear. Common private and tour helicopter.",
+    "airlines": "private / tours"
+  },
+  {
+    "name": "Sikorsky UH-60 Black Hawk",
+    "category": "helicopter",
+    "size": "medium military helicopter",
+    "engines": "2 turboshaft engines, 4 main rotor blades",
+    "features": "Four-blade main rotor, angled tail rotor, tailwheel, usually green or grey. Military, also used for search and rescue and medevac.",
+    "airlines": "US Army, many militaries"
+  }
+]
