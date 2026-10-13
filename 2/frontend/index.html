@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>OpenTriage</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="topbar">
+      <a class="brand" href="#/">
+        <span class="mark" aria-hidden="true"></span>
+        <span>
+          <strong>OpenTriage</strong>
+          <small>Internal technical requests</small>
+        </span>
+      </a>
+      <nav>
+        <a href="#/" data-nav="submit">Submit a request</a>
+        <a href="#/inbox" data-nav="inbox">IT inbox</a>
+      </nav>
+      <p class="health" id="health" hidden></p>
+    </header>
+
+    <main id="app"></main>
+
+    <template id="tpl-submit">
+      <section class="hero">
+        <p class="kicker">For people in this organisation</p>
+        <h1>Tell us what is broken, blocked, or needed.</h1>
+        <p class="lede">
+          OpenTriage files your request, then a local open-source model on
+          Ollama sorts it by type and urgency so IT can pick it up in order.
+          Nothing is sent to a cloud AI provider.
+        </p>
+      </section>
+      <form class="card form" id="submit-form">
+        <div class="grid two">
+          <label>
+            Your name
+            <input name="requester_name" required minlength="2" maxlength="80" autocomplete="name" />
+          </label>
+          <label>
+            Work email
+            <input name="requester_email" type="email" required autocomplete="email" />
+          </label>
+          <label>
+            Team
+            <select name="team" required></select>
+          </label>
+          <label>
+            Short title
+            <input name="title" required minlength="4" maxlength="140" placeholder="VPN drops every few minutes" />
+          </label>
+        </div>
+        <label>
+          What is going on?
+          <textarea name="details" required minlength="12" maxlength="4000" rows="6" placeholder="What you tried, who is affected, error messages, when it started."></textarea>
+        </label>
+        <label>
+          What happens if this waits?
+          <textarea name="impact" required minlength="4" maxlength="400" rows="3" placeholder="I cannot join stand-up from home. Three of us share this laptop."></textarea>
+        </label>
+        <div class="form-actions">
+          <button type="submit" class="primary" id="submit-btn">Send to IT</button>
+          <p class="hint" id="submit-hint">Classification usually takes a few seconds on llama3.2.</p>
+        </div>
+        <p class="form-error" id="form-error" hidden></p>
+      </form>
+      <section class="result card" id="submit-result" hidden></section>
+    </template>
+
+    <template id="tpl-inbox">
+      <section class="hero compact">
+        <p class="kicker">IT desk</p>
+        <h1>Inbox</h1>
+        <p class="lede">Sorted by urgency from the local model. Override status as you work.</p>
+      </section>
+      <section class="stats" id="stats"></section>
+      <section class="filters">
+        <input type="search" id="search" placeholder="Search title, person, details" />
+        <select id="filter-urgency">
+          <option value="">All urgency</option>
+        </select>
+        <select id="filter-category">
+          <option value="">All types</option>
+        </select>
+        <select id="filter-status">
+          <option value="">All status</option>
+        </select>
+      </section>
+      <section class="queue" id="queue"></section>
+    </template>
+
+    <script src="/assets/app.js" type="module"></script>
+  </body>
+</html>
